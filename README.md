@@ -2,6 +2,19 @@
 
 This project introduces BO-StaEnsemble, a stacked ensemble learning framework optimized using Bayesian hyperparameter tuning (via Optuna) for credit risk prediction. The model combines the predictive strengths of three diverse base learners—Random Forest, XGBoost, and Logistic Regression—whose outputs are used as meta-features to train a high-level meta-learner. Through careful cross-validation and optimization, BO-StaEnsemble delivers high classification performance across three financial datasets (CRD, Econometric, and DCC), evaluated using comprehensive metrics such as F1-score, MCC, Cohen’s Kappa, and AUC. The systematic blending of diverse models with data-driven optimization ensures robustness, generalizability, and improved decision-making for financial risk assessment. Model transperancy has been added via SHAP, LIME and Morris Sensitivity Analysis.
 
+## Authors
+
+- Monirul Islam Mahmud — mahmudislam2025@gmail.com  
+- Md Shihab Reza — shihab.reza@northsouth.edu  
+- Farhana Elias — farhana.elias@northsouth.edu  
+- Kazi Aniya Ahmed — kazi.ahmed12@northsouth.edu  
+- Marjana Ahammad — marjana.ahammad@northsouth.edu  
+- Ifti Azad Abeer — ifti.azad@northsouth.edu  
+- Dr. Nova Ahmed — nova.ahmed@northsouth.edu  
+ 
+🏛️ Affiliated with Design Inclusion & Access Lab (DIAL), North South University, Bangladesh.
+
+
 
 ---
 ![1](https://github.com/user-attachments/assets/50a719bb-7129-46d2-af50-1ac7dca5e786)
